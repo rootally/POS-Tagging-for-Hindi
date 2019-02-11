@@ -4,7 +4,7 @@ Developing a POS tagger for Hindi Copora
 # Implementations
   - [x] Bi-LSTM Architecture
   - [x] Bi-LSTM + CRF Architecture
-  - [ ] Residual LSTM + EMLO
+  - [ ] Residual LSTM + EMLO (Testing)
   
 # TL;DR
   
